@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://peachandavo.co.uk/sitemap.xml
